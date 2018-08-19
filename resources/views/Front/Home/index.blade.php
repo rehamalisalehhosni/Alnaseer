@@ -1,0 +1,15 @@
+@extends('layouts.defaultPage')
+@section('content')
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+    <h1>Waitting</h1>
+@endsection
